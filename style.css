@@ -91,17 +91,14 @@ a {
 }
 .teste1 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     background-color: rgb(251, 250, 206);
 }
 .restaurante {
     display: flex;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    justify-content: center;
-    align-items: center;
+    margin: 50px 30px 50px 0px;
 }
 .restaurante1 {
     border-radius: 10px;
@@ -115,9 +112,9 @@ a {
     gap: 10px;
 }
 .lapizza {
-    font-size: 18px;
+    font-size: 16px;
     width: 160px;
-    height: 30px;
+    height: 20px;
 }
 .bemvindo {
     font-size: 14px;
