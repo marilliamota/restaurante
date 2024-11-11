@@ -48,13 +48,15 @@ main {
     border: 4px solid var(--cor2);
 }
 .pizza {
-    height: 45%;
+    height: 100px;
     margin: -30%;
 }
 .sabor {
+    width: 150px;
     margin: 30%;
     font-size: 16px;
     font-weight: bold;
+    text-align: center;
     color: var(--cor3);
 }
 .ingrediente {
